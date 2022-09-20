@@ -7,7 +7,7 @@ export const hotelRoomsAPI = {
         price_lte?: number,
         numberOfSeats?: number
     ): Promise<AxiosResponse<HotelRoomType[]>> {
-        return axios.get(`http://localhost:3001/rooms`, {
+        return axios.get(`https://pacific-beach-16245.herokuapp.com/`, {
             params: {
                 price_gte,
                 price_lte,

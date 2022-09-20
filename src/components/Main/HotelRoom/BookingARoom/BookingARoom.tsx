@@ -22,9 +22,6 @@ export const BookingARoom: React.FC<PropsType> = React.memo(({
   price
 }) => {
 
-
-  console.log('FormComponentFormComponentFormComponent');
-
   const handleCancel = () => {
     setOpen(false);
   };
