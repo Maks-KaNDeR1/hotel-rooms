@@ -1,0 +1,116 @@
+{
+  "rooms": [
+    {
+      "roomId": 0,
+      "title": "Семейный номер Делюкс",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/ef/2e/24/lotte-hotel-moscow-at.jpg",
+      "hotelName": "Golden Tulip",
+      "price": 4968,
+      "numberOfSeats": 4
+    },
+    {
+      "roomId": 1,
+      "title": "Панорамный люкс",
+      "image": "https://hotel-attache.ru/images/nav-number.jpg",
+      "hotelName": "Golden Tulip",
+      "price": 6256,
+      "numberOfSeats": 4
+    },
+    {
+      "roomId": 2,
+      "title": "Представительский люкс",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/5d/57/63/four-seasons-executive-room--v176.jpg",
+      "hotelName": "Golden Tulip",
+      "price": 6900,
+      "numberOfSeats": 4
+    },
+    {
+      "roomId": 3,
+      "title": "Стандартный номер с кроватью размера 'king-size'",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/2b/1d/52/caption.jpg",
+      "hotelName": "Golden Tulip",
+      "price": 3864,
+      "numberOfSeats": 2
+    },
+    {
+      "roomId": 4,
+      "title": "Сюит",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/2d/77/00/presidential-suite.jpg",
+      "hotelName": "Amici Grand Hotel",
+      "price": 13000,
+      "numberOfSeats": 2
+    },
+    {
+      "roomId": 5,
+      "title": "Люкс VIP",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/c5/ac/b3/exterior.jpg",
+      "hotelName": "Amici Grand Hotel",
+      "price": 8000,
+      "numberOfSeats": 2
+    },
+    {
+      "roomId": 6,
+      "title": "Стандарт SNGL",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/5d/0d/f7/lounge--v17633359.jpg",
+      "hotelName": "Amici Grand Hotel",
+      "price": 2250,
+      "numberOfSeats": 1
+    },
+    {
+      "roomId": 7,
+      "title": "БИГ САЙЗ",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/92/8d/d5/hotel-exterior.jpg",
+      "hotelName": "AVAX",
+      "price": 1995,
+      "numberOfSeats": 3
+    },
+    {
+      "roomId": 8,
+      "title": "Семейный",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/83/cf/99/indoor-swimming-pool.jpg",
+      "hotelName": "AVAX",
+      "price": 3950,
+      "numberOfSeats": 5
+    },
+    {
+      "roomId": 9,
+      "title": "ТВИН",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZoE99TjA6w_5XPSb3LuDtM200xv8EY1kFg&usqp=CAU",
+      "hotelName": "AVAX",
+      "price": 1995,
+      "numberOfSeats": 3
+    },
+    {
+      "roomId": 10,
+      "title": "Эконом",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/69/01/f1/caption.jpg",
+      "hotelName": "Hotel Triumph",
+      "price": 1450,
+      "numberOfSeats": 1
+    },
+    {
+      "roomId": 11,
+      "title": "Комфорт",
+      "image": "https://www.travelline.ru/resource/images/rt/161257/637745584686467844-ec27359b-1ef5-4cf6-ae3a-d45ade3b6a1a",
+      "hotelName": "Hotel Triumph",
+      "price": 2790,
+      "numberOfSeats": 1
+    },
+    {
+      "roomId": 12,
+      "title": "Бизнесс",
+      "image": "https://www.travelline.ru/resource/images/rt/161085/637820744810659005-860d7836-58dd-4455-9e24-b025e22fbe2a",
+      "hotelName": "Hotel Triumph",
+      "price": 2980,
+      "numberOfSeats": 2
+    },
+    {
+      "roomId": 13,
+      "title": "Де Люкс",
+      "image": "https://www.travelline.ru/resource/images/rt/161252/637745544983360842-1932ead8-c659-444c-95c4-7bca982d48e0",
+      "hotelName": "Hotel Triumph",
+      "price": 3990,
+      "numberOfSeats": 4
+    }
+  ]
+}

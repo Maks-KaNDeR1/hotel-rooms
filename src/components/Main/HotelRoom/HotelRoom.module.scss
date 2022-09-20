@@ -1,0 +1,76 @@
+.itemBlock {
+    position: relative;
+    display: flex;
+    cursor: pointer;
+
+    border-bottom: 1px solid rgba(135, 135, 135, 0.2);
+    margin-top: 15px;
+    padding: 7px 0;
+
+
+    .iconHome {
+        margin-right: 20px;
+        font-size: 35px;
+        height: 55px;
+        min-width: 55px;
+        background-color: #f4f4f4;
+        border-radius: 35px;
+
+        i {
+            display: flex;
+            color: #41522E;
+            height: 50px;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .item {
+        width: 510px;
+
+        .title {
+            width: 135px;
+            height: 22px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 17px;
+            line-height: 22px;
+
+            letter-spacing: -0.408px;
+
+            color: #424242;
+        }
+
+        .number {
+            position: absolute;
+            margin: 10px 5px 5px 0;
+
+            i {
+                color: #a7a06dfa;
+            }
+        }
+
+        .price {
+            display: flex;
+            justify-content: space-between;
+            margin-left: 405px;
+            width: 135px;
+
+            font-weight: 400;
+            font-size: 17px;
+            line-height: 22px;
+
+            text-align: right;
+            letter-spacing: -0.408px;
+
+            span {
+                font-weight: 300;
+            }
+
+            :nth-child(2) {
+                color: #4a5366;
+            }
+        }
+    }
+}

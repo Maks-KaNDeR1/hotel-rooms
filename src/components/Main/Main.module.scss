@@ -1,0 +1,47 @@
+.mainBlock {
+    width: 690px;
+    height: 680px;
+    padding: 18px 32px;
+    border-radius: 16px;
+
+    background: #FFFFFF;
+
+    .header {
+        position: relative;
+
+        button {
+            position: absolute;
+            top: 9px;
+            margin-left: 30px;
+        }
+    }
+
+    ::-webkit-scrollbar {
+        display: none;
+    }
+
+
+    .hotelItem {
+        overflow: auto;
+        height: 600px;
+
+         h1 {
+            color: rgb(4 104 152);
+        }
+    }
+
+    .arrow {
+        position: relative;
+        display: flex;
+        justify-content: center;
+
+        top: -30px;
+        font-size: 50px;
+        color: #345d33b4;
+        opacity: 0.1;
+
+        i {
+            cursor: pointer;
+        }
+    }
+}
